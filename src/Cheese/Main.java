@@ -1,8 +1,8 @@
 /*
-*	grupo  :
-*	alumno :
-*	n.exp. :
-*	fecha  :
+*	grupo  : GDAM 1-2
+*	alumno : Alberto Ramos Morlanes
+*	n.exp. : 7258
+*	fecha  : 2022/06/09
  */
 package Cheese;
 
